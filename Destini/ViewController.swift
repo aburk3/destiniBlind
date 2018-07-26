@@ -40,9 +40,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-      
-        restart()
         
+        // Because the player is really bad, they have to restart right away
+        restart()
     }
 
     
